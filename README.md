@@ -1,0 +1,2 @@
+# EXERCICIOS
+Exemplos de python
